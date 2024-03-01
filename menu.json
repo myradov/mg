@@ -1,0 +1,122 @@
+[
+	{
+		"title": "about",
+		"status": "draft",
+		"translations": [
+			{
+				"id": 1,
+				"menu_id": 6,
+				"languages_code": "en",
+				"title": "About Us"
+			},
+			{
+				"id": 2,
+				"menu_id": 6,
+				"languages_code": "ru",
+				"title": "О нас"
+			},
+			{
+				"id": 3,
+				"menu_id": 6,
+				"languages_code": "tm",
+				"title": "Biz hakda"
+			}
+		]
+	},
+	{
+		"title": "services",
+		"status": "draft",
+		"translations": [
+			{
+				"id": 4,
+				"menu_id": 7,
+				"languages_code": "en",
+				"title": "Services"
+			},
+			{
+				"id": 5,
+				"menu_id": 7,
+				"languages_code": "ru",
+				"title": "Сервисы"
+			},
+			{
+				"id": 6,
+				"menu_id": 7,
+				"languages_code": "tm",
+				"title": "Hyzmatlarymyz"
+			}
+		]
+	},
+	{
+		"title": "products",
+		"status": "draft",
+		"translations": [
+			{
+				"id": 7,
+				"menu_id": 8,
+				"languages_code": "en",
+				"title": "Products"
+			},
+			{
+				"id": 8,
+				"menu_id": 8,
+				"languages_code": "ru",
+				"title": "Продукты"
+			},
+			{
+				"id": 9,
+				"menu_id": 8,
+				"languages_code": "tm",
+				"title": "Önümler"
+			}
+		]
+	},
+	{
+		"title": "news",
+		"status": "draft",
+		"translations": [
+			{
+				"id": 10,
+				"menu_id": 9,
+				"languages_code": "en",
+				"title": "News"
+			},
+			{
+				"id": 11,
+				"menu_id": 9,
+				"languages_code": "ru",
+				"title": "Новости"
+			},
+			{
+				"id": 12,
+				"menu_id": 9,
+				"languages_code": "tm",
+				"title": "Täzelikler"
+			}
+		]
+	},
+	{
+		"title": "contacts",
+		"status": "draft",
+		"translations": [
+			{
+				"id": 13,
+				"menu_id": 10,
+				"languages_code": "en",
+				"title": "Contacts"
+			},
+			{
+				"id": 14,
+				"menu_id": 10,
+				"languages_code": "ru",
+				"title": "Контакты"
+			},
+			{
+				"id": 15,
+				"menu_id": 10,
+				"languages_code": "tm",
+				"title": "Habarlaşmak"
+			}
+		]
+	}
+]
